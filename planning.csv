@@ -2,6 +2,6 @@ task_id,task_description,initial_estimate_minutes,actual_time_minutes,notes
 T1,Design DB schema and migrations (roles/users/teams/projects/reviews),45,30,
 T2,Implement models and relationships,30,30,
 T3,"Implement middleware, routing and review endpoints",45,35,
-T4,Implement user/team/project management APIs,60,,
+T4,Implement user/team/project management APIs,60,50,
 T5,Write feature tests and wire seeders,45,,
 T6,Write README/instructions and clean up,30,,
